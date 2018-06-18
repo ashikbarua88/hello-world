@@ -17,5 +17,11 @@
     { "title": "Back to the Future", "releaseYear": "1985"},
     { "title": "The Matrix", "releaseYear": "1999"},
     { "title": "Inception", "releaseYear": "2010"}
+  ],
+  "cities":[
+    {"name": "Dubai", "country": "UAE"},
+    {"name": "tokyo", "country": "Japan"},
+    {"name": "Dhaka", "country": "Bangladesh"},
+    {"name": "Tampa", "country": "USA"}
   ]
 }
